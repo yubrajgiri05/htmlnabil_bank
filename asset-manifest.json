@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/My_Portfolio/static/css/main.d8cda600.chunk.css",
+    "main.js": "/My_Portfolio/static/js/main.9a5b07f2.chunk.js",
+    "main.js.map": "/My_Portfolio/static/js/main.9a5b07f2.chunk.js.map",
+    "runtime-main.js": "/My_Portfolio/static/js/runtime-main.81491c15.js",
+    "runtime-main.js.map": "/My_Portfolio/static/js/runtime-main.81491c15.js.map",
+    "static/css/2.ea6b7726.chunk.css": "/My_Portfolio/static/css/2.ea6b7726.chunk.css",
+    "static/js/2.7d2f465a.chunk.js": "/My_Portfolio/static/js/2.7d2f465a.chunk.js",
+    "static/js/2.7d2f465a.chunk.js.map": "/My_Portfolio/static/js/2.7d2f465a.chunk.js.map",
+    "index.html": "/My_Portfolio/index.html",
+    "precache-manifest.2b86653963e0399f4ec394439ce393e3.js": "/My_Portfolio/precache-manifest.2b86653963e0399f4ec394439ce393e3.js",
+    "service-worker.js": "/My_Portfolio/service-worker.js",
+    "static/css/2.ea6b7726.chunk.css.map": "/My_Portfolio/static/css/2.ea6b7726.chunk.css.map",
+    "static/css/main.d8cda600.chunk.css.map": "/My_Portfolio/static/css/main.d8cda600.chunk.css.map",
+    "static/js/2.7d2f465a.chunk.js.LICENSE.txt": "/My_Portfolio/static/js/2.7d2f465a.chunk.js.LICENSE.txt",
+    "static/media/AndroidStudio-Intro-feature.png": "/My_Portfolio/static/media/AndroidStudio-Intro-feature.5b67f91f.png",
+    "static/media/Custom-Software-Development.jpg": "/My_Portfolio/static/media/Custom-Software-Development.86dcc26e.jpg",
+    "static/media/digital-marketing.png": "/My_Portfolio/static/media/digital-marketing.c5a2d6e2.png",
+    "static/media/home.svg": "/My_Portfolio/static/media/home.f3668a1d.svg",
+    "static/media/mad_blog_5df2190b8638a1576147211.jpg": "/My_Portfolio/static/media/mad_blog_5df2190b8638a1576147211.c0a3c656.jpg",
+    "static/media/marketing-plan_1.jpg": "/My_Portfolio/static/media/marketing-plan_1.52760bec.jpg",
+    "static/media/technical-support-137-1087325.png": "/My_Portfolio/static/media/technical-support-137-1087325.1a567371.png",
+    "static/media/web.png": "/My_Portfolio/static/media/web.089c6f85.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.81491c15.js",
+    "static/css/2.ea6b7726.chunk.css",
+    "static/js/2.7d2f465a.chunk.js",
+    "static/css/main.d8cda600.chunk.css",
+    "static/js/main.9a5b07f2.chunk.js"
+  ]
+}
